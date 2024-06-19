@@ -16,11 +16,12 @@ bottom-row layouts though.
 I have tested this in my 40rmie LX using the no-blockers, no-encoders layout.
 
 There should be no problems using the other layouts as I put quite a bit of
-effort into checking the component positions matched the original PCB. Ho
-**_Order at your own risk!_**  
-Dimensions: 309.5625mm x 112.0325mm
+effort into checking the component positions matched the original PCB. However
+_Order at your own risk!_
 
 ## Production
+
+Dimensions: 309.5625mm x 112.0325mm
 
 The files in `jlcpcb` should contain everything you need to need to order PCBA
 from JLCPCB as of their January 2024 component selection.
